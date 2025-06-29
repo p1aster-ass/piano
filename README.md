@@ -32,7 +32,7 @@ It’s a fun demonstration of low-level programming, real-time keyboard input, a
 | H   |       |
 | J   |       |
 
-> *you can open the meny by pressing "M" *
+> *you can open the menu by pressing "M" *
 
 ---
 
@@ -41,3 +41,7 @@ It’s a fun demonstration of low-level programming, real-time keyboard input, a
 tasm /zi pianoAri
 tlink /v pianoAri
 pianoAri
+
+🙋‍♂️ Author
+Created by p1aster
+Originally started as a personal challenge to build a full game using only Assembly.
