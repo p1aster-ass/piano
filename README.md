@@ -42,6 +42,6 @@ tasm /zi pianoAri
 tlink /v pianoAri
 pianoAri
 
-🙋‍♂️ Author
-Created by p1aster
-Originally started as a personal challenge to build a full game using only Assembly.
+🙋‍♂️ Author:
+Created by p1aster,
+Originally started as a personal challenge to build a full working piano using only Assembly.
